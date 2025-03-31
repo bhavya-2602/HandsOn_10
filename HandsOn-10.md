@@ -9,7 +9,7 @@
 <br>
 <b>Output:</b>
 
-![alt text](output.png)
+![alt text](Output.png)
 
 <br>
 <br>
